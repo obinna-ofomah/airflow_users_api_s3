@@ -1,0 +1,3 @@
+awswrangler==2.20.1
+boto3==1.33.13
+requests==2.31.0
